@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e Técnico em Desenvolvimento de Sistemas pela **ETEC**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Zona Leste** e Técnico em Desenvolvimento de Sistemas pela **ETEC Zona Leste**.
 
 💻 Utilizo este GitHub para compartilhar meus estudos, exercícios de programação e projetos acadêmicos, colocando em prática os conhecimentos adquiridos ao longo da minha formação.
 

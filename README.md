@@ -1,12 +1,16 @@
-# Olá! Eu sou o Samuel 👋
+# Olá, eu sou o Samuel! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e Técnico em Desenvolvimento de Sistemas pela ETEC.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC** e Técnico em Desenvolvimento de Sistemas pela **ETEC**.
 
-Sou interessado em desenvolvimento de software e busco construir uma base sólida em programação, lógica e desenvolvimento back-end. Utilizo o GitHub para documentar minha evolução, compartilhar projetos práticos e aplicar os conhecimentos adquiridos nos estudos.
+💻 Utilizo este GitHub para compartilhar meus estudos, exercícios de programação e projetos acadêmicos, colocando em prática os conhecimentos adquiridos ao longo da minha formação.
+
+🚀 Atualmente, busco aprofundar minha lógica de programação, desenvolver minhas habilidades técnicas e aprender a construir soluções de software cada vez melhores.
+
+🎯 **Objetivo:** conquistar uma oportunidade de estágio em tecnologia, contribuir com uma equipe e continuar evoluindo por meio de desafios reais.
 
 ## 🛠️ Tecnologias
 
-Tecnologias com as quais já trabalhei durante meus estudos e projetos:
+Tecnologias com as quais tive contato durante meus estudos e projetos:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -15,15 +19,11 @@ Tecnologias com as quais já trabalhei durante meus estudos e projetos:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-## 🚀 Projetos
+## 📚 Atualmente
 
-Aqui compartilho projetos acadêmicos, aplicações práticas e exercícios de programação, com foco no aprendizado contínuo e na resolução de problemas.
-
-Confira meus repositórios para conhecer meu código e minha evolução como desenvolvedor.
-
-## 🎯 Objetivo
-
-Continuar desenvolvendo minhas habilidades técnicas, aprofundar meus conhecimentos em desenvolvimento de software e buscar oportunidades para aprender e contribuir em projetos reais.
+* Aprimorando meus fundamentos de programação e resolução de problemas.
+* Desenvolvendo projetos e exercícios para consolidar o que aprendo.
+* Explorando diferentes áreas do desenvolvimento de software.
 
 ## 📫 Contato
 
@@ -31,4 +31,4 @@ Continuar desenvolvendo minhas habilidades técnicas, aprofundar meus conhecimen
 
 ---
 
-*Aprendendo, construindo e evoluindo um projeto de cada vez.*
+*Aprendizado contínuo, prática e evolução constante.*
